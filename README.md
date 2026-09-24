@@ -6,3 +6,5 @@ Tipe Data Dasar
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/ebf2c535-ff06-4526-a770-0914411b6d88" />
 List 
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/f061d8d1-de09-44e8-a88e-248816c050cc" />
+SET
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/f2d74d60-009b-48f0-a539-74d346a3d48a" />
