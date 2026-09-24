@@ -14,4 +14,16 @@ MAP
 Conditional expressions
 IF
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/b598be37-8578-48ce-8c30-a927dfbf7d3a" />
+When
+Contoh 1
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/6626a8f8-2991-480f-8baf-0020cdaa7aa9" />
+Contoh 2
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/8d0c04c2-e20d-4cd7-b078-37e01bd6d639" />
+Loops
+For
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/2f337135-d36f-4f1b-99f0-4f6eaa2200ef" />
+Function
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/3176641f-2e7e-45e0-a102-b3d9d60cf660" />
+
+
 
