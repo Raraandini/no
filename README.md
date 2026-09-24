@@ -42,6 +42,12 @@ Compare Instances
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/508d78db-1099-4d03-9322-14f22de99cb0" />
 Nullable Types
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/92a3f116-0894-4e06-b996-93b164390f44" />
+Check for null values
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/2fed723b-6ec5-4f8d-9cc9-9bf374216cc9" />
+Use safe calls
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/4b9c6725-1b92-4fc0-877d-ed9379a36ff8" />
+Use elvis operator
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/f5599001-137f-4692-b798-4a777be75fb1" />
 
 
 
