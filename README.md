@@ -11,3 +11,7 @@ SET
 MAP
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/ba07685d-2b4e-42c4-b029-1922d917919f" />
 /<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/0bd544e4-9b48-4a0c-a2f4-dc5b845fe4c9" />
+Conditional expressions
+IF
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/b598be37-8578-48ce-8c30-a927dfbf7d3a" />
+
