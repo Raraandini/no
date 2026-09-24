@@ -28,6 +28,14 @@ Named Arguments
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/8c8a7bf2-e6fc-4a86-8572-fb5e5cde8387" />
 Defaults Parameter Values
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/4262d603-2442-4c53-bc0f-0f08c11f412a" />
+Function Without return
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/cb1b13bd-31fa-46e6-8cfe-ad1afde37d2b" />
+Access Properties
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/84a582bd-4505-4a77-a539-a1ddaa7451d7" />
+Member Function 
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/f5cfc333-9fe7-422f-a727-88c3d3f802a5" />
+Create Instance
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/c0f6928b-d212-4d52-bdf3-ac01cd0fcc41" />
 
 
 
