@@ -36,6 +36,12 @@ Member Function
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/f5cfc333-9fe7-422f-a727-88c3d3f802a5" />
 Create Instance
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/c0f6928b-d212-4d52-bdf3-ac01cd0fcc41" />
+Print as string
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/2e24b37f-43db-406a-b487-4aeaa1943476" />
+Compare Instances
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/508d78db-1099-4d03-9322-14f22de99cb0" />
+Nullable Types
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/92a3f116-0894-4e06-b996-93b164390f44" />
 
 
 
