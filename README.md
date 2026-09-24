@@ -26,6 +26,8 @@ Function
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/3176641f-2e7e-45e0-a102-b3d9d60cf660" />
 Named Arguments
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/8c8a7bf2-e6fc-4a86-8572-fb5e5cde8387" />
+Defaults Parameter Values
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/4262d603-2442-4c53-bc0f-0f08c11f412a" />
 
 
 
